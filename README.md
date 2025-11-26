@@ -25,8 +25,12 @@ Um **port scanner educacional** feito em Python, com foco em **ensino de redes e
 - Python 3.8 ou superior
 - Nenhuma biblioteca externa necessária
 
+---
+<img width="1105" height="387" alt="Captura de tela de 2025-11-26 13-39-18" src="https://github.com/user-attachments/assets/ab8de9ae-ffdd-41f1-9742-7dddbc3bb4f3" />
 
-![Uploading Captura de tela de 2025-08-15 09-34-37.png…]()
+---
+
+
 
 
 ## Como usar
