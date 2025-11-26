@@ -26,7 +26,7 @@ Um **port scanner educacional** feito em Python, com foco em **ensino de redes e
 - Nenhuma biblioteca externa necessária
 
 ---
-<img width="1105" height="387" alt="Captura de tela de 2025-11-26 13-39-18" src="https://github.com/user-attachments/assets/ab8de9ae-ffdd-41f1-9742-7dddbc3bb4f3" />
+<img width="1419" height="365" alt="Captura de tela de 2025-11-26 15-50-50" src="https://github.com/user-attachments/assets/16398b3e-4639-4760-af9e-89e7f03e3f75" />
 
 ---
 
