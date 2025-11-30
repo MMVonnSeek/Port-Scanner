@@ -61,7 +61,7 @@ Este software somente deve ser utilizado em redes ou máquinas autorizadas. Qual
 
 ---
 
-## Autor
+### Autor
 Professor: Max Müller
 
 #### Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
