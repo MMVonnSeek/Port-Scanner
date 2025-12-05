@@ -35,6 +35,21 @@ Um **port scanner educacional** feito em Python, com foco em **ensino de redes e
 
 ## Como usar
 
+1. Faça um Fork do Repositório:
+Antes de tudo, crie sua própria cópia deste projeto:
+
+- Clique no botão Fork no canto superior direito do GitHub.
+
+- Isso criará uma versão do repositório na sua conta.
+
+2. Clone o Seu Repositório Forkado:
+
+```
+git clone https://github.com/SEU-USUARIO/Port-Scanner.git
+cd Port-Scanner
+```
+
+
 ### Scan rápido (portas comuns)
 ```bash
 python3 scanner.py -t 192.168.0.1 -m fast --accept-terms
