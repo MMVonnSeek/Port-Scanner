@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Port Scanner](https://img.shields.io/badge/Port%20Scanner-TCP%20Only-orange?style=for-the-badge&logo=codefactor)
 ![Multithreading](https://img.shields.io/badge/Multithreading-Enabled-brightgreen?style=for-the-badge&logo=threadless)
-![Ethical Use](https://img.shields.io/badge/Ethical%20Hacking-Legal%20Use%20Only-red?style=for-the-badge&logo=security)
+![Ethical Use](https://img.shields.io/badge/Ethical%20Hacking-Legal%20Use%20Only-darkred?style=for-the-badge&logo=security)
 ![CLI](https://img.shields.io/badge/CLI-Argparse-lightgrey?style=for-the-badge&logo=terminal)
 ![Networking](https://img.shields.io/badge/Networking-Port%20Scanning-9cf?style=for-the-badge&logo=wifi)
 ![Dependencies](https://img.shields.io/badge/Dependencies-None-success?style=for-the-badge&logo=pypi)
