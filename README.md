@@ -74,9 +74,38 @@ python3 scanner.py -t 192.168.0.1 -m fast -T 400 --timeout 0.5 --accept-terms
 
 Este software somente deve ser utilizado em redes ou máquinas autorizadas. Qualquer uso indevido pode violar leis locais.
 
----
+----------
 
-### Autor
-Professor: Max Müller
+## Contribuição
 
-#### Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
+Se você gostou do projeto, não esqueça de:
+
+-   ⭐ Deixar uma estrela no Repositório
+    
+-    Reportar bugs encontrados
+    
+-    Sugerir novas funcionalidades
+    
+-    Fazer um fork e contribuir
+    
+
+----------
+
+<div align="center"> <sub> Feito por <strong>Prof. Max Muller - MMVonnSeek</strong> para a comunidade de segurança </sub>
+
+  
+  
+
+[![Stars](https://img.shields.io/github/stars/MMVonnSeek/Port-Scanner?style=social)](https://github.com/MMVonnSeek/Port-Scanner/stargazers)
+[![Forks](https://img.shields.io/github/forks/MMVonnSeek/Port-Scanner?style=social)](https://github.com/MMVonnSeek/Port-Scanner/network/members)
+[![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
+
+<a href="https://wa.me/5561986194426?text=Olá%20tudo%20bem%20Max%3F%20Eu%20vim%20pelo%20seu%20repositorio%20do%20github.%20Podemos%20conversar%20sobre%3F" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Fale%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br>
+
+  [Voltar ao topo](#-Port-Scanner)
+
+</div>
