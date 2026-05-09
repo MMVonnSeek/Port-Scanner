@@ -1,13 +1,14 @@
 # Port Scanner Personalizado em Python
 
-![Max Müller](https://img.shields.io/badge/Autor-Max%20M%C3%BCller-blue?style=for-the-badge&logo=github)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![Port Scanner](https://img.shields.io/badge/Port%20Scanner-TCP%20Only-orange?style=for-the-badge&logo=codefactor)
-![Multithreading](https://img.shields.io/badge/Multithreading-Enabled-brightgreen?style=for-the-badge&logo=threadless)
+![Max Müller](https://img.shields.io/badge/Autor-Max%20M%C3%BCller-darkred?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-3.8%2B-black?style=for-the-badge&logo=python)
+![Port Scanner](https://img.shields.io/badge/Port%20Scanner-TCP%20Only-darkred?style=for-the-badge&logo=codefactor)
+![Multithreading](https://img.shields.io/badge/Multithreading-Enabled-black?style=for-the-badge&logo=threadless)
 ![Ethical Use](https://img.shields.io/badge/Ethical%20Hacking-Legal%20Use%20Only-darkred?style=for-the-badge&logo=security)
-![CLI](https://img.shields.io/badge/CLI-Argparse-lightgrey?style=for-the-badge&logo=terminal)
-![Networking](https://img.shields.io/badge/Networking-Port%20Scanning-9cf?style=for-the-badge&logo=wifi)
-![Dependencies](https://img.shields.io/badge/Dependencies-None-success?style=for-the-badge&logo=pypi)
+![CLI](https://img.shields.io/badge/CLI-Argparse-black?style=for-the-badge&logo=terminal)
+![Networking](https://img.shields.io/badge/Networking-Port%20Scanning-darkred?style=for-the-badge&logo=wifi)
+![Dependencies](https://img.shields.io/badge/Dependencies-None-black?style=for-the-badge&logo=pypi)
+[![Sponsor](https://img.shields.io/badge/Apoie_este_projeto-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
 
 
 Um **port scanner educacional** feito em Python, com foco em **ensino de redes e segurança da informação**. Permite varredura rápida, completa ou personalizada de portas TCP com **multithreading**.
@@ -74,19 +75,6 @@ python3 scanner.py -t 192.168.0.1 -m fast -T 400 --timeout 0.5 --accept-terms
 
 Este software somente deve ser utilizado em redes ou máquinas autorizadas. Qualquer uso indevido pode violar leis locais.
 
----
-
-## 💖 Apoie este projeto
-
-Se este projeto te ajudou, considere apoiar ❤️
-
-Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
-
-👉 https://github.com/sponsors/MMVonnSeek
-
-Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
-
----
 ----------
 
 ## Contribuição
@@ -113,9 +101,8 @@ Se você gostou do projeto, não esqueça de:
 [![Forks](https://img.shields.io/github/forks/MMVonnSeek/Port-Scanner?style=social)](https://github.com/MMVonnSeek/Port-Scanner/network/members)
 [![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
 
-<a href="https://wa.me/5561986194426?text=Olá%20tudo%20bem%20Max%3F%20Eu%20vim%20pelo%20seu%20repositorio%20do%20github.%20Podemos%20conversar%20sobre%3F" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Fale%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+[![Sponsor](https://img.shields.io/badge/Apoie_este_projeto-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Muller-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-muller-685705248/)
 
 <br>
 
